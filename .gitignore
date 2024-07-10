@@ -6,6 +6,4 @@ env/
 venv/
 .idea/
 .vscode/
-detected_objects.xlsx
-annotated_image.jpg
 *.ipynb_checkpoints/
