@@ -84,7 +84,7 @@ You can also try using the online tool [ExifMeta](https://exifmeta.com) to view 
 *Figure: Example of an annotated image with detected objects and geolocation data.*
 
 
-![Detected Objects](../images/detected_objects.png)
+![Detected Objects](../images/detected_objects.png)  
 *Figure: Example of the Excel file with detected objects and their geolocation details.*
 
 You can view the detected objects in the Excel file and plot them on a map using tools like Google Earth or QGIS.
